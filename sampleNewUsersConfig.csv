@@ -1,0 +1,2 @@
+first name,last name,email address,password,user login,routing profile name,security_profile_name_1|security_profile_name_2,phone type (soft/desk),phone number,soft phone auto accept (yes/no),ACW timeout (seconds)
+Kelby,Enevold,kelby.enevold@linuxacademy.com,examplepassword,enevoldk,Basic Routing Profile,Admin,soft,,no,0
